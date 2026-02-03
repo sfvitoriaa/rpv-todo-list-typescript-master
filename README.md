@@ -10,7 +10,7 @@ Este projeto é educacional e visa inserir os alunos do curso de desenvolvimento
 ### Issues criadas
 [Configuração projeto react - to do list](https://github.com/sfvitoriaa/rpv-todo-list-typescript-master/issues/1)✅
 
-[Layout inicial - to do list](https://github.com/sfvitoriaa/rpv-todo-list-typescript-master/issues/2)⚠️
+[Layout inicial - to do list](https://github.com/sfvitoriaa/rpv-todo-list-typescript-master/issues/2)✅
 
 [Validação de entrada - to do list](https://github.com/sfvitoriaa/rpv-todo-list-typescript-master/issues/3)⚠️
 
